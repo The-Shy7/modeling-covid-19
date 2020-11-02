@@ -9,18 +9,18 @@ Please do not plagarize my work and just use it as a reference for your own pers
 
 ## Project Layout
 
-# LaTeX
+### LaTeX
 
 This folder contains the LaTeX I wrote for my final report.
 
-# matlab_code
+### matlab_code
 
 This folder contains all of the MATLAB code and functions I wrote to generate my plots. There are multiple folders for different models (SIR, SEIR, SIR + Vaccine, SEIR + Vaccine) and stability analysis. There are multiple files for testing different reproductive numbers (the number of individuals one infected person can be expected to spread the disease to) and different intial infected populations. 
 
-# plots
+### plots
 
 This folder contains the plots I generated from my MATLAB code. 
 
-# Amath_383_Final_Paper__COVID_19_Modeling.pdf
+### Amath_383_Final_Paper__COVID_19_Modeling.pdf
 
 The final report I wrote to explain and analyze my results. 
